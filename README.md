@@ -1,2 +1,2 @@
-# IssueTracker
-Elytra Issue Tracker
+# BugTracker
+Elytra Bug Tracker
